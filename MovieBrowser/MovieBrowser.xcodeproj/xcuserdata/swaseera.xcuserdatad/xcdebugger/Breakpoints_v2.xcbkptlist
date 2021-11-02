@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B17B1CC8-D6BF-41C0-B4DE-2D0D20A5AA8A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E62B59DC-BF7A-4EA9-B801-9E2D450A3381"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieBrowser/Source/Search/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "searchMovie(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E62B59DC-BF7A-4EA9-B801-9E2D450A3381 - 7acf23b2be6b4d67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;MovieBrowser.MovieResults, Swift.Error&gt;) -&gt; () in MovieBrowser.SearchViewController.searchMovie(query: Swift.String) -&gt; ()"
+                  moduleName = "MovieBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swaseera/Documents/MovieBrowser/MovieBrowser/Source/Search/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "E62B59DC-BF7A-4EA9-B801-9E2D450A3381 - 7acf23b2be6b4d67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;MovieBrowser.MovieResults, Swift.Error&gt;) -&gt; () in MovieBrowser.SearchViewController.searchMovie(query: Swift.String) -&gt; ()"
+                  moduleName = "MovieBrowser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swaseera/Documents/MovieBrowser/MovieBrowser/Source/Search/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
